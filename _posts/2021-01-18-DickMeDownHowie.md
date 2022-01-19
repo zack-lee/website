@@ -3,7 +3,7 @@ layout: post
 title: 16-311 HW 0
 ---
 Here is an image of my robot.
-![My Robot](assets/robot.jpg)
+![My Robot](/website/assets/robot.jpg)
 Here is also my favorite robot [article](https://www.decisionproblem.com/paperclips/). It's about the hypothetical paperclip robot apocalypse. 
 
 # Sensing
