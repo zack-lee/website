@@ -1,7 +1,8 @@
 ---
 layout: post
-title: WALAWHLAWJklj
+title: 16-311 HW 
 ---
-# Barack
+
+# 
 # Obama
 [Project Proposal](../website/assets/proposal.pdf)
