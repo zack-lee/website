@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 16-311 HW 0
+author: Zack Lee (ztlee)
 ---
 Here is an image of my robot.
 ![My Robot](/website/assets/robot.jpg)
